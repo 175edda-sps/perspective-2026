@@ -19,8 +19,7 @@ We conclude with a community-driven roadmap to advance Arabic IR and practical r
 
 ```
 ├── Arabic-IR-papers.md #An up-to-date list and metadata of reviewed Arabic IR papers.
-├── language-representation/ #Bibliometric data and the prompt used to verify language mentions (Section 2).
-│ ├── raw-bib-files/  #Raw bibliometric data of included papers
+├── raw-bib-files/  #Raw bibliometric data of included papers
 ├── dialectal-query-variants/ #Collected dialectal query variants, code, and generated runs (Section 5)
 │ ├── query_variants/  # dialectal query variants
 │ ├── code/ # experimental code for running etrieval models and evaluating the results.
